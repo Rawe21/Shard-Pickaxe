@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "amethystpickaxe",
+  "version": "${version}",
+  "name": "Shard Pickaxe",
+  "description": "A shard pickaxe inspired by DonutSMP.",
+  "authors": [
+    "rawe21"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/amethystpickaxe/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.sigmasigmovic.amethystpickaxe.AmethystPickaxeMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
