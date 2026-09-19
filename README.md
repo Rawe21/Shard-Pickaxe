@@ -11,3 +11,8 @@ A DonutSMP inspired pickaxe.
 
 
 ## You need Fabric API to run this mod. 1.21-1.21.1
+
+## Available on:
+- CurseForge: https://www.curseforge.com/minecraft/mc-mods/shard-pickaxe
+- Modrinth: https://modrinth.com/mod/shard-pickaxe-rawe21
+
